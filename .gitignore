@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El mejor material deportivo de México</title>
+    
+    <style>
+        body {
+            background-color: #70A0FF;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .flex-container {
+            display: table;
+            width: auto;
+            border-collapse: collapse;
+        }
+
+        .flex-container div {
+            display: table-cell;
+            border: 2px solid black;
+            padding: 10px;
+            margin: 0;
+            text-align: center; 	
+            width: 150px;
+            vertical-align: top;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Tiendas Matias</h1>
+    <h2>El mejor material deportivo de México</h2>
+
+    <p>En nuestra web nos especializamos en la recopilación del mejor material deportivo, seleccionando cuidadosamente productos de alta calidad para todos los niveles de actividad física. Ya sea que estés buscando equipamiento para deportes profesionales o para entrenamientos recreativos, ofrecemos una amplia variedad de opciones de las marcas más reconocidas y confiables. Nuestro objetivo es facilitarte el acceso al mejor material para que puedas alcanzar tu máximo rendimiento y disfrutar al máximo de cada deporte.</p>
+
+    <h3>Tapete de Yoga Grip+ Gris</h3>
+
+    <!-- Primer video de YouTube usando un iframe -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/f3dbP7otRxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <img src="https://contents.mediadecathlon.com/p2185948/k$c561554f06add1b01bc545351f1beeb1/tapete-de-yoga-dinamico-estudio-5-mm-gris.jpg?format=auto&quality=40&f=800x800" alt="El tapete mide 185 cm de largo por 65 cm de ancho y tiene un grosor de 5 mm. Pesa 3.5 kilos" width="300" height="300" style="float: left; margin-right: 20px;"/>
+
+    <img src="https://contents.mediadecathlon.com/p2185951/k$6292328e78dc88563c2ef492670507fd/tapete-de-yoga-dinamico-estudio-5-mm-gris.jpg?format=auto&quality=40&f=800x800" alt="Imágen de forma de uso" width="300" height="300" style="float:right; margin-left: 20px;"/>
+
+    <div class="flex-container">
+        <div>
+            <strong>Medidas</strong>
+            <div>185 cm x 65 cm x 5 mm</div>
+        </div>
+
+        <div>
+            <strong>Precio</strong>
+            <div>$1,500 mxn</div>
+        </div>
+
+        <div>
+            <strong>Link a la tienda</strong>
+            <div>
+                <a href="https://www.decathlon.com.mx/tapetes-de-yoga/301244-1161-tapete-de-yoga-dinamico-estudio-5-mm-gris.html#/demodelsize-254sin_talla/demodelcolor-8500978" target="_blank">
+                    Comprar ahora
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <p>Concebido para las personas que buscan máxima adherencia y un buen confort gracias a los 5 mm de grosor. Ideal para el yoga dinámico (como el vinyasa).</p>
+
+    <h3>Balón de fútbol Talla 5 Hybride FIFA Basic Club</h3>
+
+    <!-- Segundo video de YouTube usando un iframe con el enlace corregido -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf33oF5yvt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <img src="https://contents.mediadecathlon.com/p2571437/k$bdbe8f54c283875f7301e83a0c72dcb7/balon-de-futbol-hybride-fifa-basic-club-talla-5-nieve-y-niebla-rojo.jpg?format=auto&quality=40&f=800x800" alt="Parte delantera del balon" width="300" height="300" style="float: left; margin-right: 20px;"/>
+
+    <img src="https://contents.mediadecathlon.com/p2571372/k$5bd1aba5178508b7780f20761e34f522/balon-de-futbol-hybride-fifa-basic-club-talla-5-nieve-y-niebla-rojo.jpg?format=auto&quality=40&f=800x800" alt="Parte trasera del balon" width="300" height="300" style="float:right; margin-left: 20px;"/>
+
+    <div class="flex-container">
+        <div>
+            <strong>Material</strong>
+            <div>Cosido a máquina, diseñado para nieve y niebla.(talla 5)</div>
+        </div>
+
+        <div>
+            <strong>Precio</strong>
+            <div>$380 mxn</div>
+        </div>
+
+        <div>
+            <strong>Link a la tienda</strong>
+            <div>
+                <a href="https://www.decathlon.com.mx/balones-para-futbol-academico/344994-62504-balon-de-futbol-hybride-fifa-basic-club-talla-5-nieve-y-niebla-rojo.html#/demodelsize-1205/demodelcolor-8790035" target="_blank">
+                    Comprar ahora
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <p>Certificado por la FIFA para entrenamientos y las competencias, diseñamos el CLUB HÍBRIDO, un balón que combina buena comodidad de uso con gran durabilidad.</p>
+
+    <h3>Bicicleta 100 14'' para niños (3-5 años)</h3>
+
+    <!-- Tercer video de YouTube usando un iframe con el enlace corregido -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z-ZNTo7TSXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <img src="https://contents.mediadecathlon.com/p2416083/k$6d9ec93b95a294d324d64a0b50a5e76e/bicicleta-14-pulgadas-3-5-anos-100-dragon-cn-fra.jpg?format=auto&quality=40&f=800x800" alt="Vistaso de la bicicleta" width="300" height="300" style="float: left; margin-right: 20px;"/>
+
+    <img src="https://contents.mediadecathlon.com/p2416082/k$95de281bbfc315dcfa5e41cea08135f5/bicicleta-14-pulgadas-3-5-anos-100-dragon-cn-fra.jpg?format=auto&quality=40&f=800x800" alt="Vistaso de la bicicleta" width="300" height="300" style="float:right; margin-left: 20px;"/>
+
+    <div class="flex-container">
+        <div>
+            <strong>Material</strong>
+            <div>Cuadro de acero resistente, con rueditas para aprendizaje.(talla 5)</div>
+        </div>
+
+        <div>
+            <strong>Precio</strong>
+            <div>$2,400 mxn</div>
+        </div>
+
+        <div>
+            <strong>Link a la tienda</strong>
+            <div>
+                <a href="https://www.decathlon.com.mx/bicicletas-infantiles/172201-16814-bicicleta-14-pulgadas-3-5-anos-100-dragon-cn-fra.html#/demodelcolor-8402124/demodelsize-21414quote" target="_blank">
+                    Comprar ahora
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <p>Certificado por la FIFA para entrenamientos y las competencias, diseñamos el CLUB HÍBRIDO, un balón que combina buena comodidad de uso con gran durabilidad.</p>
+
+    <h3>​​​​​Guantes de Boxeo Everlast Prostyle Elite V2</h3>
+
+    <!-- Cuarto video de YouTube usando un iframe con el enlace corregido -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/et5GABbtXxU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <img src="https://www.score.com.mx/web/image/product.product/21107/image_1024/%5BA000025377%5D%20%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8BGuantes%20de%20Boxeo%20Everlast%20Prostyle%20Elite%20V2%20%28Negro%2C%2012%29?unique=f2b660b" alt="Guantes de box everlast" width="300" height="300" style="float: left; margin-right: 20px;"/>
+
+    <img src="https://www.score.com.mx/web/image/product.image/20701/image_1024/%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8BGuantes%20de%20Boxeo%20Everlast%20Prostyle%20Elite%20V2?unique=051ff78" alt="Material del guante" width="300" height="300" style="float:right; margin-left: 20px;"/>
+
+    <div class="flex-container">
+        <div>
+            <strong>Material</strong>
+            <div>Sintético con acolchado interior, diseño ergonómico.</div>
+        </div>
+
+        <div>
+            <strong>Precio</strong>
+            <div>$1,299 mxn</div>
+        </div>
+
+        <div>
+            <strong>Link a la tienda</strong>
+            <div>
+                <a href="https://www.score.com.mx/shop/guantes-de-boxeo-everlast-prostyle-elite-v2-14385#attr=12529,12531" target="_blank">
+                    Comprar ahora
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <p>Los guantes de boxeo Everlast Pro Style Elite representan la última evolución de una línea icónica, diseñada para ofrecer a los boxeadores la combinación perfecta de protección, comodidad y rendimiento. En esta versión mejorada, Everlast ha perfeccionado cada detalle, elevando el estándar para quienes buscan maximizar su entrenamiento y desempeño en el ring. La integración de tecnologías avanzadas y materiales de alta calidad asegura que estos guantes no solo se adapten perfectamente a la forma de tus manos, sino que también proporcionen un soporte óptimo y una durabilidad superior.</p>
+
+</body>
+</html>
